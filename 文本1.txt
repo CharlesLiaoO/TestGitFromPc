@@ -12,3 +12,5 @@
 在主干修改3回退到主干修改2，后的修改4
 
 在GitHub的master中修改文本1
+
+在主干做一个小修改，防止Git自动合并时，将合并操作转换为 将master reset 到 t_MergeDeletePush中
