@@ -1,4 +1,4 @@
-20210103 1525 创建文本1
+﻿20210103 1525 创建文本1
 20210103 1526 提交文本1
 
 修改文本
@@ -13,4 +13,5 @@
 
 在GitHub的master中修改文本1
 
-在主干做一个小修改，防止Git自动合并时，将合并操作转换为 将master reset 到 t_MergeDeletePush中
+在分支t_MergeDeletePush中修改文件1，第一次
+在分支t_MergeDeletePush中修改文件1，第2次
